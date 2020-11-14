@@ -1,0 +1,1 @@
+This repository keeps track of all the items in my shopping list
